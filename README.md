@@ -16,6 +16,5 @@ GMAIL_APP_PASSWORD=insert your mail app password here<br>
 GMAIL_MAIL=insert your mail here 
 </list>
 <br>
-<p> 2-npm install</p>
-<br>
-<p> 3-npm start</p>
+<p> 2-npm install <br>3-npm start</p>
+
