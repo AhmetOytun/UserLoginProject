@@ -15,7 +15,7 @@ JWT_SECRET_STRING=insert your jwt secret string here<br>
 GMAIL_APP_PASSWORD=insert your mail app password here<br>
 GMAIL_MAIL=insert your mail here 
 </list>
-
-<p> 2-npm build</p>
-
+<br>
+<p> 2-npm install</p>
+<br>
 <p> 3-npm start</p>
